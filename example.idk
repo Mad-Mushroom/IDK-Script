@@ -1,0 +1,11 @@
+# COMMENT
+
+DEF x = 10
+
+FUNCTION output()
+	PRINT("Hello, World!")
+END
+
+IF x == 10 DO
+	output()
+END
