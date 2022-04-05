@@ -21,12 +21,23 @@
  |_|  \_\______/_/    \_\_____/|_|  |_|______|
 ##############################################
 
-You need to run "shell.py" with python. After that you
-can type in commands like: "PRINT("Hello, World")".
+You can type in commands like: "PRINT("Hello, World")".
 If you want to un files, just type in: "RUN("filename")".
 I made an example file, called "example.idk". So for an
 example program, just type into the console:
 "RUN("example.idk")".
+
+  _____  _    _ _   _ 
+ |  __ \| |  | | \ | |
+ | |__) | |  | |  \| |
+ |  _  /| |  | | . ` |
+ | | \ \| |__| | |\  |
+ |_|  \_\\____/|_| \_|
+#######################
+You can open the "IDK-Script Console" Shortcut, or you
+go into the "resource" Folder and open "IDK-Script.exe".
+Files you want to Run, you need to paste into the "resource"
+Folder.
                                               
 
   _  __                                _     
