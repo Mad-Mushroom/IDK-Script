@@ -75,5 +75,5 @@ PRINT
 ####################################################
 
 Created on: 20.03.2022
-Based on: Python (Python sucks, so I wanted to do with Python a better Python :) )
+Based on: Python
 Version: 1.1                         
